@@ -16,3 +16,7 @@
 </div>
 
 ### :smiling_imp: обо мне :
+
+- :japanese_goblin: факт обо мне 
+- :clown_face: факт обо мне 
+- :ghost: факт обо мне
