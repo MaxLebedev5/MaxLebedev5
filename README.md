@@ -33,4 +33,8 @@
 <div>
   <img src="https://github-profile-trophy.vercel.app/?username=MaxLebedev5"
 </div>
+  
 ### :keyboard:Наиболее используемые языки:
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaxLebedev5&theme=react-dark" alt=""/>
+</div>
