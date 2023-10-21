@@ -22,3 +22,9 @@
 - :ghost: факт обо мне
 
 ### 🛠️ языки и инструменты 
+
+<div>
+  <img src=https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="30" height="30"/>
+  <img src= https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30" height="30"/>
+  <img scr=https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" width="30" height="30"/>
+</div>
