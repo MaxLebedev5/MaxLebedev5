@@ -15,4 +15,4 @@
 <h1> Профиль на GITHUB </h1>
 </div>
 
-### :sunglasses: обо мне :
+### :smiling_imp: обо мне :
