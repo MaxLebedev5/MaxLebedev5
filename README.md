@@ -31,5 +31,5 @@
 
 ### :trophy: Достижения:
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxLebedev5" alt""/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MaxLebedev5"
 </div>
